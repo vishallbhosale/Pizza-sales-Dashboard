@@ -32,6 +32,6 @@ The dashboard was built using the following tools and technologies:
 
 6. Screenshots / Demos
    Home Screen - https://github.com/vishallbhosale/Pizza-sales-Dashboard/blob/main/Home%20Screen.png
-   Best-Worst sellers Screen -
+   Best-Worst sellers Screen - https://github.com/vishallbhosale/Pizza-sales-Dashboard/blob/main/Best-Worst%20Sellers%20Screen.png
 
 
