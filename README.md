@@ -31,6 +31,7 @@ The dashboard was built using the following tools and technologies:
    ✅ Intuitive, clean, and user-friendly UI/UX design
 
 6. Screenshots / Demos
-   
+   Home Screen -
+   Best-Worst sellers Screen -
 
 
