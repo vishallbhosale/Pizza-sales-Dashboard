@@ -31,7 +31,7 @@ The dashboard was built using the following tools and technologies:
    ✅ Intuitive, clean, and user-friendly UI/UX design
 
 6. Screenshots / Demos
-   Home Screen -
+   Home Screen - https://github.com/vishallbhosale/Pizza-sales-Dashboard/blob/main/Home%20Screen.png
    Best-Worst sellers Screen -
 
 
